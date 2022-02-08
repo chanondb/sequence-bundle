@@ -13,7 +13,7 @@ declare(strict_types=1);
 
 namespace Indragunawan\SequenceBundle\Provider;
 
-use Doctrine\Common\Persistence\ManagerRegistry;
+use Doctrine\Persistence\ManagerRegistry
 use Doctrine\DBAL\LockMode;
 use Doctrine\ORM\EntityManager;
 use Indragunawan\SequenceBundle\Model\SequenceInterface;
