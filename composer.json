@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "AppAlive\\SequenceBundle\\": ""
+            "Indragunawan\\SequenceBundle\\": ""
         },
         "exclude-from-classmap": [
             "Tests/"
